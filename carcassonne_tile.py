@@ -1,5 +1,5 @@
 """
-File: carcassonne_tile_scratched.py
+File: carcassonne_tile.py
 Author: Christopher Reid
 CSC 120 Spring 2022
 Purpose: This is Part 1 of a 4 part Carcassonne Tile Game simulation program.
