@@ -1,6 +1,6 @@
 """
 Author: Christopher Reid
-Description: This program is calculates my monthly bills, bills totals, and the amount each roommate would owe.
+Description: This program calculates my monthly bills, bills totals, and the amount each roommate would owe.
 """
 
 
